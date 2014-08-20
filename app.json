@@ -1,0 +1,7 @@
+{
+    "name": "Conference Force",
+    "description": "Conference Force",
+    "repository": "https://github.com/ccoenraets/conference-force",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["cors", "nodejs", "proxy", "salesforce", "rest"]
+}
